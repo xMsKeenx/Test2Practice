@@ -1,0 +1,14 @@
+bin/
+obj/
+.idea/
+*.sln.iml
+*.user
+*.suo
+_ReSharper.Caches/
+*.DotSettings.user
+.vs/
+packages/
+.DS_Store
+Thumbs.db
+*.log
+.env
